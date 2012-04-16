@@ -1,0 +1,5 @@
+
+
+Once upon a time there was a poor developer who spent his nights writing python code. This poor developer loved to write very loooooong files filled with lines and lines of python code. Unfortunately, large python scripts are not very user-friendly, so the poor developer looked for a way to split and automate the whole process.
+
+First, he organised his code in a (kind of) way that made sense (at least to him), then he started using Flask BluePrints... and the rest is story.
